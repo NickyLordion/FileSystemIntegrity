@@ -1,0 +1,725 @@
+﻿Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+Устанавливается служба IntegrityControl...
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется откат для сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+Восстанавливается исходное состояние журнала событий для источника IntegrityControl.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется откат для сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Восстанавливается исходное состояние журнала событий для источника IntegrityControl.
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется откат для сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Восстанавливается исходное состояние журнала событий для источника IntegrityControl.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется откат для сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Восстанавливается исходное состояние журнала событий для источника IntegrityControl.
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Попытка останова службы IntegrityControl.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется откат для сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Восстанавливается исходное состояние журнала событий для источника IntegrityControl.
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = E:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется установка сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Выполняется удаление источника EventLog IntegrityControl.
+Выполняется удаление службы IntegrityControl из системы...
+Служба IntegrityControl успешно удалена из системы.
+Выполняется установка сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
+Устанавливается служба IntegrityControl...
+Служба IntegrityControl успешно установлена.
+Создается исходный EventLog IntegrityControl в журнале Application...
+Выполняется фиксация сборки 'D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.exe
+   logfile = D:\Xr-Sec\Xr-Sec\bin\Debug\Xr-Sec.InstallLog
